@@ -1,4 +1,4 @@
-# blog of Backpack Laravel 
+# Backpack dashboard Laravel 
 In this blog i use Backpack laravel with PermissionManager and using seeder to fill the data.
 Create two post in this blog and create two admin : first one just can Add post , and the second one just can edit post.
 
